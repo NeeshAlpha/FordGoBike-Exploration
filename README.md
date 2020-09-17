@@ -28,8 +28,8 @@ I start by showing the distributions for the duration and speed. I then portray 
 
 - [Pie chart ref] (https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f)
 
--[bins] (https://www.statisticshowto.com/choose-bin-sizes-statistics/)
+- [bins] (https://www.statisticshowto.com/choose-bin-sizes-statistics/)
 
--[distance calculator](# https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula)
+- [distance calculator](# https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula)
 
--[lambda function](# https://stackoverflow.com/questions/40045632/adding-a-column-in-pandas-df-using-a-function)
+- [lambda function](# https://stackoverflow.com/questions/40045632/adding-a-column-in-pandas-df-using-a-function)
