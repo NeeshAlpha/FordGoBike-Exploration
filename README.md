@@ -1,7 +1,7 @@
 # FordGoBike-Exploration
-The seventh or last project of Udacity's Data Analysis course
 # Nujood Alhajery
 
+The seventh or last project of Udacity's Data Analysis course
 The dataset includes information about 519700 rides made in a bike-sharing system covering the greater San Francisco Bay area. The information covered includes duration, start time, end time, start station latitude and longitude, end station latitude and longitude. The dataset can be found [here](https://s3.amazonaws.com/baywheels-data/index.html).
 
 
